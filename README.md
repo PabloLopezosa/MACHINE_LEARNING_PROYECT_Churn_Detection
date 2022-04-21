@@ -1,2 +1,6 @@
-# ML_churn_detection
-Se trata de un poryecto realizado para el módulo de Machine Learning en The bridge. Este cuneta con un alaisis exploratio de datos sobre los clientes de un banco y modelos de ML para predecir si estos van a dar de baja sus cuentas en el banco o no.
+# DETENCIÓN DE CACNCELACIÓN DE CUENTAS BANCARIAS
+
+Se trata de un proyecto realizado para el módulo de Machine Learning en THE BRIDGE. 
+
+![image](https://user-images.githubusercontent.com/97469174/164443994-eaa9cc95-4f11-41fc-83e8-4d987702a691.png)
+
