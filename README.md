@@ -2,5 +2,5 @@
 
 Se trata de un proyecto realizado para el módulo de Machine Learning en THE BRIDGE. 
 
-![image](https://user-images.githubusercontent.com/97469174/164443994-eaa9cc95-4f11-41fc-83e8-4d987702a691.png)
+![image](https://user-images.githubusercontent.com/97469174/164444126-f669a9d4-f873-4330-9707-e123fa5e4504.png)
 
